@@ -1,5 +1,6 @@
 import React from 'react'
 import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.js"; 
 import Home from "./components/Home.jsx";
 import hotelcity from "./components/Hotels.jsx";
 import hotel from "./components/HotelPage.jsx";
